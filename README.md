@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Raadmehr
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Raadmehr.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on basic to medium level projects!
 - 📫 You can reach me at zeinaliradmehr@gmail.com for any inquiries or further communication.
 
